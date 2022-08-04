@@ -8,6 +8,7 @@ Created on Fri Aug  5 02:02:25 2022
 import streamlit as st
 import pandas as pd 
 import pickle
+import flair
 from flair.data import Sentence
 from flair.models import SequenceTagger
 import regex as re
