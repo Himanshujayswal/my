@@ -1,4 +1,4 @@
 en-ner-bc5cdr-md @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.4.0/en_ner_bc5cdr_md-0.4.0.tar.gz
-flair 0.8.0
+flair==0.8.0
 streamlit
 requests
