@@ -186,3 +186,4 @@ widgetsnbextension==3.6.1
 Wikipedia-API==0.5.4
 wrapt==1.14.1
 zipp==3.8.1
+streamlit
